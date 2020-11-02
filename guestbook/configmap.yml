@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: guestbook-configmap
+  namespace: logging
+  labels:
+    k8s-app: guestbook
+data:
+  GUESTBOOK_HOST: ""
+  
