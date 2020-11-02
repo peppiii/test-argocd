@@ -7,4 +7,6 @@ metadata:
     k8s-app: guestbook
 data:
   GUESTBOOK_HOST: ""
+  GUESTBOOK_PORT: ""
+
   
