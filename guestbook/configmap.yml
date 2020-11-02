@@ -8,5 +8,6 @@ metadata:
 data:
   GUESTBOOK_HOST: ""
   GUESTBOOK_PORT: ""
+  GUESTBOOK_TEST: ""
 
   
